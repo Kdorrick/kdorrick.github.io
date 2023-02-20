@@ -1,6 +1,10 @@
 baseURL = "https://kdorrick.github.io"
 
+
+googleAnalytics = "G-EFYX5EG4W8"
+
 # This is a "one page"-website, so we do not need these kinds of pages...
+
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
 defaultContentLanguage = "en"
