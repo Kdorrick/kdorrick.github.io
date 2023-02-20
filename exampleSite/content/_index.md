@@ -1,5 +1,5 @@
 ---
-header_image: "images/cover-image.jpg"
-header_headline: "Jane Doe"
-header_subheadline: "Hi there , I am a Nutrition Coach & Chef Consultant"
+header_image: "images/DSC08052.jpg"
+header_headline: "Kaggie Orrick"
+header_subheadline: "Conservation Scientist"
 ---
