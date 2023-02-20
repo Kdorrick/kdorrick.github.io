@@ -1,4 +1,97 @@
 <!-- A partial to be overwritten by the user.
-     Simply place a custom_head.html into
-     your local /layouts/partials-directory.
      Its content will appear before the closing </head>-tag -->
+
+<!-- Custom CSS via inline styles
+     You may use this template to add custom CSS to your site like so: -->
+
+<style>
+
+     /* Links */
+     a:hover {
+         color: #3e4781;
+     }
+
+     /* Header Buttons on Startpage */
+     a.btn {
+         color: white;
+          background-color: #3e4781; 
+     }
+     a.btn:hover {
+          background-color: #3e4781;
+     }
+
+     /* Scroll Menu on Startpage */
+     a.fn-item.active {
+          color: #0877d1;
+     }
+     a.fn-item:hover {
+          color: #3e4781;
+     }
+
+     /* Content / Sections */
+     .post-holder.odd {
+          background:  #3e4781;
+          color: white;
+     }
+     .post-holder {
+          background:  #f2efe8 ; ## 
+     }
+     body {
+          color: black;
+     }
+
+
+     /* Footer */
+     .site-footer {
+          color: #BBC7CC;
+          background-color: #22343A;
+     }
+     
+
+</style> 
+
+<!-- Custom CSS via "custom.css"-file
+     If you would rather place your custom CSS into
+     a separate file, create a "custom.css" in your
+     local "static/css"-directory. Then add a <link>-tag
+     referencing your "custom.css" like so: -->
+
+<!-- <link rel="stylesheet" href='{{ "css/custom.css" | absURL }}'> -->
+
+<!-- Custom CSS: Color Codes
+     You may checkout https://htmlcolorcodes.com/ to get those
+     weird color codes (like "#22343A") ;-). -->
+
+<!-- Custom link-tags for different icons
+     Generated via https://favicon.io/favicon-generator/ -->
+<link
+  rel="lion-touch-icon"
+  sizes="180x180"
+  href="{{ "images/lion-touch-icon.png" | absURL }}"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  sizes="32x32"
+  href="{{ "images/lion_favicon-32x32.png" | absURL }}"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  sizes="16x16"
+  href="{{ "images/lion_favicon-16x16.png" | absURL }}"
+/>
+
+<link
+  rel="icon"
+  type="image/png"
+  sizes="16x16"
+  href="{{ "images/lion_favicon-16x16.png" | absURL }}"
+/>
+
+<link
+  rel="icon"
+  type="image/png"
+  sizes="16x16"
+  href="{{ "images/lion_favicon-16x16.png" | absURL }}"
+/>
