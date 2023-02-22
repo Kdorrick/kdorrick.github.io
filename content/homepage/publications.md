@@ -19,7 +19,7 @@ Heinemeyer, K., Masunga, G.S. **Orrick, K.**, Smith, J., Sinvula, M., Dain-Owens
 Report for Colby Environmental Assessment Team, Colby College and Problems in Environmental Science course (Biology 493), Colby College. (2009). "A Watershed Analysis of Salmon Lake and McGrath Pond: Implications for Water Quality And Land Use Management". Colby College Watershed Study: Salmon Lake and McGrath Pond (2009, 1993). 1. [Link here](https://digitalcommons.colby.edu/salmonmcgrath/1.)</div>
 
 
-<img src="images/IMG_8982.jpg" 
-     width="350" 
+<img src="images/07310168-1.jpeg" 
+     width="600" 
      height="500" />
      

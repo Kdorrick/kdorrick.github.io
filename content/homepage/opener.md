@@ -13,5 +13,7 @@ I'm Kaggie and I'm a conservation scientist. Throughout my career I have straddl
 </div>
 
 
-![Kaggie Orrick](images/IMG_8909.jpg)
- 
+
+     
+![Kaggie Orrick](images/DSC02336.jpeg)
+
