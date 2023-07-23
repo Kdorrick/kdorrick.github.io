@@ -57,7 +57,7 @@ I examine the landscape using three methodologies:
 
 This information collectively portrays an inclusive, socio-ecological system that can provide nuanced understanding of how to achieve human-cattle-wildlife coexistence while incorporating participation from local communities in CT8. This work is in partnership and collaboration with the tourism organization [Natural Selection](https://naturalselection.travel/?gclid=CjwKCAiA0JKfBhBIEiwAPhZXDwErBEMzmnYx-DHIhrq58rIoKVPGtQFYrdRpYFubaGJNOAl2tZS0bxoCM44QAvD_BwE), the conservation NGO [Round River Conservation Studies](roundriver.org), and the [University of Botswana's Okavango Research Institute](https://www.ori.ub.bw/).</div>
 
-
+You can check out more of my work through our ArcStory Maps project entitled [Makgadikgadi: A human-wildlife landscape](https://storymaps.arcgis.com/stories/9354e6e7979849aa9ed1dc30ef26cf33)
 
 ![group-photo](images/AllFour.png)
 
