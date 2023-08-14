@@ -15,5 +15,5 @@ I'm Kaggie and I'm a conservation scientist.
 
 
      
-![Kaggie Orrick](images/DSC02336.jpeg)
+
 
