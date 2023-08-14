@@ -28,6 +28,6 @@ Colby Environmental Assessment Team, Colby College and Problems in Environmental
 
 
 <img src="images/07310168-1.jpeg" 
-     width="600" 
-     height="500" />
+     width="300" 
+     height="250" />
      

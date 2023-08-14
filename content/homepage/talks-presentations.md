@@ -26,4 +26,6 @@ Columbia University, NY, April 2014: Vehicle noise disturbance on carnivores and
 
 
 
-![Fences](images/DSC08088.jpg)
+<img src="images/DSC08088.jpg" 
+     width="350" 
+     height="250" />

@@ -5,8 +5,13 @@ weight: 1
 
 <div style="text-align: justify">
 
+<img style= "float:right; padding-left:20px; padding-top: 50px; padding-bottom: 100px" src="images/firetower2.png" 
+     width="250" 
+     height="250"/>
 
-I'm Kaggie and I'm a conservation scientist.
+I'm Kaggie and I'm a conservation scientist. I'm a PhD candidate at the [Yale School of the Environment](https://www.google.com/search?client=safari&rls=en&q=School+of+the+environment+yale&ie=UTF-8&oe=UTF-8) working in the [Schmitz lab](http://schmitz.environment.yale.edu/) and with the [Dove lab](https://environment.yale.edu/profile/dove). I'm also a conservation associate with [Round River Conservation Studies](https://www.roundriver.org).  My current work examines the human-wildlife interface in social-ecological landscapes. I bridge ecological and social science theories in the hopes to advance our ability to do conservation science. I am particularly interested in the practices of people, animals, and domestic species.
+
+Here to learn more about my dissertation? Check out my ArcStory Map I developed about my dissertation! [Makgadikgadi: A human-wildlife landscape](https://storymaps.arcgis.com/stories/9354e6e7979849aa9ed1dc30ef26cf33)
 
 
 
