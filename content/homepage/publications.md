@@ -8,11 +8,11 @@ header_menu: true
 	
 <div style="text-align: justify">
 
-*(In review)* Burak, Mary^; Ferraro, Kristy^; **Orrick, K.** ^; Sommer, Nathalie; Ellis Soto, Diego; Schmitz, Oswald. "Context matters when rewilding for climate change". People and Nature. [Pre-print here](https://doi.org/10.32942/X2PS3W.) ^indicates first-author.
+*(In review)* Burak, M.^; Ferraro, K.^; **Orrick, K.** ^; Sommer, N.; Ellis Soto, D.; Schmitz, O.. "Context matters when rewilding for climate change". People and Nature. [Pre-print here](https://doi.org/10.32942/X2PS3W.) ^indicates first-author.
 
 *(in review)* **Orrick, K.**, Sommer, N., Rowland, F., Ferraro, K. "Disentangling the role of predator hunting mode, spatial domain size, and habitat complexity: An examination of consumptive and nonconsumptive effects". Ecology.
 
-*(in review)* **Orrick, K.**, Dove. M., Schmitz, O. "Human-nature relationships: An introduction to social-ecological practice theory for human-wildlife conflict". Ambio.
+**Orrick, K.**, Dove. M., Schmitz, O. "Human-nature relationships: An introduction to social-ecological practice theory for human-wildlife interactions". Ambio. 2023 Oct 14. doi: 10.1007/s13280-023-01945-x. Epub ahead of print. PMID: 37837503. [Link here](https://pubmed.ncbi.nlm.nih.gov/37837503/)
 
 Zhou, W.  **Orrick, K.**  and Lim, A. and Dove, M.. 2021. “Reframing Conservation and Development Perspectives on Bushmeat.” Environmental Research Letters. [Link here](http://iopscience.iop.org/article/10.1088/1748-9326/ac3db1.)
 
