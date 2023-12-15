@@ -8,9 +8,13 @@ header_menu: true
 	
 <div style="text-align: justify">
 
+*(In review)* Feldmeier, D.E., Schmitz, O.J., Carter, N.H.,  Masunga, G.S., **Orrick, K.**	"Perception vs reality: A socio-ecological analysis of human-carnivore conflict in Botswana". Biological Conservation.
+
 *(In review)* Burak, M.^; Ferraro, K.^; **Orrick, K.** ^; Sommer, N.; Ellis Soto, D.; Schmitz, O.. "Context matters when rewilding for climate change". People and Nature. [Pre-print here](https://doi.org/10.32942/X2PS3W.) ^indicates first-author.
 
-*(in review)* **Orrick, K.**, Sommer, N., Rowland, F., Ferraro, K. "Disentangling the role of predator hunting mode, spatial domain size, and habitat complexity: An examination of consumptive and nonconsumptive effects". Ecology.
+*(in review)* **Orrick, K.**, Sommer, N., Rowland, F., Ferraro, K. "Predator–prey interactions across hunting mode, spatial domain size, and habitat complexities". Ecology.
+
+Gao, Y., Wang, Y.,  Lee, A.T.L.,  Liu, Y., Luo, Y., **Orrick, K.**, Alexander, J.S., Sangpo, J.T., Clark, S.G. 2023. "Contextualizing sociodemographic differences in Tibetan attitudes toward large carnivores". Conservation Science and Practice. [Link here](https://conbio.onlinelibrary.wiley.com/doi/epdf/10.1111/csp2.13049)
 
 **Orrick, K.**, Dove. M., Schmitz, O. "Human-nature relationships: An introduction to social-ecological practice theory for human-wildlife interactions". Ambio. 2023 Oct 14. doi: 10.1007/s13280-023-01945-x. Epub ahead of print. PMID: 37837503. [Link here](https://pubmed.ncbi.nlm.nih.gov/37837503/)
 
