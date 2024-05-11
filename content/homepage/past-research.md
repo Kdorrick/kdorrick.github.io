@@ -33,7 +33,7 @@ src="images/Panorama_crop2.png"
      From 2015-2018 I managed and led the RRCS US-student abroad program and the development of community-based wildlife monitoring project. This work included herbivore and bird monitoring, community escort guide training and assisting with the Northern Botswana Ecological Assessment and Decision Support Tool. I simultaneously ran the research program while also working with 5 – 9 American undergraduates as part of their abroad program with RRCS. We lived in tents in the field for three months at a time while working with community members, teaching five college-level courses, conducting research and cooking over an open fire. 
 
 
-Since 2018, I've been responsible for the design and implementation of research and conservation efforts of RRCS in the Makgadikgadi region of Botswana. I maintain partnerships with the University of Botswana’s Okavango Research Institute and Department of Wildlife and National Parks, assist with grant applications, while also being the main project coordinator on the ground. I have continued partnering with RRCS throughout my PhD and much of my work and my motivation comes from the experiences and knowledge I gained in Botswana.
+From 2018-2024, I was responsible for the design and implementation of research and conservation efforts of RRCS in the Makgadikgadi region of Botswana. I maintained partnerships with the University of Botswana’s Okavango Research Institute and Department of Wildlife and National Parks, assisted with grant applications, while also being the main project coordinator on the ground. Much of my work and my motivation comes from the experiences and knowledge I gained in Botswana.
 
 </div>
 

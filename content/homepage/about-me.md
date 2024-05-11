@@ -18,6 +18,6 @@ I've worked across a number of different landscapes, including but not limited t
 <li> B.A., Colby College, 2010 </li>
 <li> M.A., Ecology & Environmental Biology, Columbia University, 2015 </li>
 <li> M.Phil., School of the Environment, Yale University, 2020 </li>
-<li> Ph.D Candidate, Yale School of the Environment  </li>
+<li> Ph.D., Yale School of the Environment  </li>
 
 
