@@ -41,4 +41,4 @@ From 2018-2024, I was responsible for the design and implementation of research 
      width="350" 
      height="250" />
 
-
+From 2024 to present I have been working at UC Berkeley as part of the California Wolf Project. We examine the social and ecological dimensions of the natural wolf recovery occurring right now in California. This includes studying the impact of wolves on simpatric species, livestock producers, and general wolf ecology across this unique state. We work in close partnership and collaboration with California Department of Fish and Wildlife.  
