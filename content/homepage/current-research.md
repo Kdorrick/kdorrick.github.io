@@ -4,7 +4,7 @@ weight: 2
 header_menu: true
 ---
 
-<div style="text-align: justify">I work at the intersection of social and ecological dimensions in conservation. My research interests cover three overlapping themes, all of which are present in my dissertation. These are:
+<div style="text-align: justify">I work at the intersection of social and ecological dimensions in conservation. My research interests cover three overlapping themes, all of which are present in my work. These are:
 
 <li> Theoretical Ecology and Social Science
 <li> Applied Social-Ecological Systems

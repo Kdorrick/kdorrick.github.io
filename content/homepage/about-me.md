@@ -13,6 +13,9 @@ I've worked across a number of different landscapes, including but not limited t
 
 </div>
 
+<img style= "float:right; padding-left:50px" src="images/MB_KO with elk.jpg" 
+     width="300" 
+     height="300"/>
 
 #### Education
 <li> B.A., Colby College, 2010 </li>
