@@ -3,7 +3,13 @@ title: "Presentations"
 weight: 3
 header_menu: true
 ---
+Berkeley, CA, September 2024. "Social-Ecological Practice Theory and Human-Wildlife Interactions: People, Cattle, and Predators in Makgadikgadi, Botswana." UC Berkeley Wildlife Seminar.
 
+Portland, OR, August 2023. "Disentangling the role of predator hunting mode, spatial domain size, and habitat complexity: An examination of consumptive and nonconsumptive effects." Ecological Society of America.
+		
+Kigali, Rwanda, July 2023. "The Social-Ecological Landscape of Makgadikgadi: Practices of Humans, Cattle, and Wildlife." International Congress of Conservation Biology.
+		
+Yale University, New Haven CT.April 2023. “Human-nature relationships: Social-ecological practice theory for Conservation efforts in Botswana." Yale School of the Environment Research Day Conference.
 
 Maun, Botswana, August 2022:  "Human-Predator Coexistence". Research Talk Series, Public Outreach Program Kwando Safaris and The University of Botswana.
 
