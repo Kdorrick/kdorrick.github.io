@@ -13,7 +13,7 @@ I've worked across a number of different landscapes, including but not limited t
 
 </div>
 
-<img style= "float:right; padding-left:50px" src="images/MB_KO_with_elk.jpg" 
+<img style= "float:right; padding-left:50px" src="images/MB_KO_with_elk.png" 
      width="300" 
      height="300"/>
 
