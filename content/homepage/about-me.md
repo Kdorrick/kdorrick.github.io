@@ -23,6 +23,8 @@ src="images/MB_KO_with_elk.png"
      width="250" 
      height="250" />
 
+![MB and KO with Elk](images/MB_KO_with_elk.jpg)
+
 
 #### Education
 <li> B.A., Colby College, 2010 </li>
