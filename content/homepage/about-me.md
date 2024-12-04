@@ -25,6 +25,10 @@ src="images/MB_KO_with_elk.png"
 
 ![MB and KO with Elk](images/MB_KO_with_elk.jpg)
 
+<img style= "float:right; padding-left:20px; padding-top: 50px; padding-bottom: 100px" src="images/firetower2.png" 
+     width="250" 
+     height="250"/>
+
 
 #### Education
 <li> B.A., Colby College, 2010 </li>
