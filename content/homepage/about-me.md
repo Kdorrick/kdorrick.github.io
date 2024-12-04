@@ -16,6 +16,13 @@ I've worked across a number of different landscapes, including but not limited t
 <img style= "float:right; padding-left:50px" src="images/MB_KO_with_elk.png" 
      width="300" 
      height="300"/>
+     
+
+<img style= "float:left; padding-right:20px; padding-top: 70px; padding-bottom: 110px"
+src="images/MB_KO_with_elk.png"
+     width="250" 
+     height="250" />
+
 
 #### Education
 <li> B.A., Colby College, 2010 </li>
