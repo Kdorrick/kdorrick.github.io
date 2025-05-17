@@ -323,3 +323,12 @@ a.fn-item {
     margin-left: unset;
   }
 }
+/* In _index.css or theme.scss THIS IS KO*/
+.custom-text {
+  color: #4c59af; /* Green */
+  font-weight: bold;
+}
+
+body {
+  background-color: #39c900;
+}

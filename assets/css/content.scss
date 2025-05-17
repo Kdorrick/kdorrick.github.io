@@ -6,6 +6,7 @@ html {
   scroll-behavior: smooth;
 }
 
+/*
 body {
   height: 100%;
   max-height: 100%;
@@ -14,7 +15,16 @@ body {
   line-height: 1.6em;
   color: var(--section-light-text-color);
 }
-
+*/
+body {
+    height: 100%;
+    max-height: 100%;
+    font-family: "Open Sans", sans-serif;
+    font-size: 2rem;
+    line-height: 1.6em;
+    color: var(--section-light-text-color);
+    font-weight: 300; /* This sets it to regular weight */
+  }
 ::-moz-selection {
   color: #222;
   background: #d6edff;
@@ -266,7 +276,7 @@ table {
     }
 
     tbody>tr:nth-child(even) {
-        background-color: #fff5;
+        background-color: rgba(255, 255, 255, 0.333);
         background-blend-mode: lighten;
     }
 
